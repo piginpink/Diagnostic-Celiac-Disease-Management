@@ -1,2 +1,2 @@
-# Diagnostic-Celiac-Disease-Management
+# HormoniQ
 HackPrinceton 2024
